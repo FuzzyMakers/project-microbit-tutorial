@@ -10,7 +10,8 @@
   "files": [
     "README.md",
     "teste.md",
-    "tutorials/tutorials-microbit/test-trail-test-chapter-test-step.md"
+    "tutorials/tutorials-microbit/test-trail-test-chapter-test-step.md",
+    "test-trail-test-chapter-test-step.md"
   ],
   "testFiles": [],
   "public": true,
